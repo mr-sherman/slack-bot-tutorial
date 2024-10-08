@@ -1,4 +1,4 @@
-# Magic 8 Ball Slack Bot & SlackBot Tutorial
+# Magic 8 Ball Slack Bot Tutorial
 This is a fun Slack Bot to help you learn how to write slack bots and deploy them in a flexible way using Docker containers.
 This tutorial uses Python.  If you prefer to use Javascript, there are other tutorials on the web to do that, but the set up for the bot is the same regardless of programming language.
 
